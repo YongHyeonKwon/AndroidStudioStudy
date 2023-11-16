@@ -1,4 +1,2 @@
 # CodingStudy
-# CodingStudy
-# AndroidStudioStudy
 # AndroidStudioStudy
